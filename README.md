@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/manhgg22?tab=repositories"><img src="https://img.shields.io/badge/repos-38-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/manhgg22?tab=repositories"><img src="https://img.shields.io/badge/repos-35-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
   <a href="https://github.com/manhgg22"><img src="https://img.shields.io/github/followers/manhgg22?style=for-the-badge&color=6366F1&labelColor=0D1117" /></a>
   <img src="https://komarev.com/ghpvc/?username=manhgg22&style=for-the-badge&color=0EA5E9&label=profile+views" />
 </p>
@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Feature Harness](https://github.com/manhgg22/lane)
+### [Feature Harness](https://github.com/manhgg22/feature-harness)
 Orchestrator chạy nhiều AI coding agent song song, mỗi agent một container Docker riêng — từ intake đến merge PR.
 
 `TypeScript` `Docker`
