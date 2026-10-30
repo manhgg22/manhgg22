@@ -26,6 +26,10 @@ Multi-agent harness, automation, hệ thống thanh toán, phân tích thị tr�
 ---
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=manhgg22&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manhgg22&layout=compact&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manhgg22&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manhgg22&theme=tokyonight" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manhgg22&theme=tokyonight" />
 </p>
